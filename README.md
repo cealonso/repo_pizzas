@@ -13,7 +13,7 @@ Proyecto sobre un aplicación web para la de ventas de distintas pizzas.
 
 ## Screenshots
 
-![Screenshot_01](screeen_01.png)
+![Screenshot_01](screen_01.png)
 
 ![Screenshot_02](screeen_02.png)
 
