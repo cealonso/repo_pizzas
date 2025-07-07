@@ -19,9 +19,9 @@ Aplicación web que presenta un catalogo de pizzas con funcionalidad de carrito 
 
 ## Screenshots
 
-![Screenshot_01](screeen_01.png)
+![Screenshot_01](screen_01.png)
 
-![Screenshot_02](screeen_02.png)
+![Screenshot_02](screen_02.png)
 
 
 ## Autor
